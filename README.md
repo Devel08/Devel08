@@ -10,7 +10,7 @@
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
 
-## Arch Linux involvment
-I am part of the [Arch Linux testing team](https://wiki.archlinux.org/title/Arch_Testing_Team) and maintain a few packages in the AUR :D
+## Open source involvement
+I contribute to uutils/coreutils and maintain a few packages in the AUR. I'm also a member of the Arch Linux Testing Team.
 
 [![AUR Badge](https://img.shields.io/badge/Arch_AUR-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&style=plastic)](https://aur.archlinux.org/packages?K=Devel&SeB=m)
